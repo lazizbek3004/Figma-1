@@ -1,0 +1,268 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+.container{
+    width: 1300px;
+    
+}
+.wrapper{
+    margin: 0 auto;
+    width:1150px ;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    gap: 528px;
+}
+.span-1{
+    color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 135%; 
+letter-spacing: 3.92px;
+}
+.span-2{
+    color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 3.92px;
+text-transform: capitalize;
+}
+.span-3{
+    color: var(--, #000);
+font-family: Lato;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.span-4{
+    color: #797777;
+font-family: Lato;
+font-size: 50px;
+font-style: normal;
+font-weight: 600;
+margin-left: 25px;
+line-height: normal;
+letter-spacing: 2.5px;
+}
+.pii p{
+    color: #000;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%; 
+    letter-spacing: 0.48px; 
+}
+.pii{
+    width: 390px;
+    margin-top:25px ;
+}
+.location{
+    color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.7px;
+text-transform: uppercase;
+}
+.something{
+    color: #000;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.8px;
+text-transform: uppercase;
+}
+.images{
+    display: flex;
+    gap: 8px;
+
+}
+.section-2{
+    margin-top: 114px;
+    margin-bottom: 114px;
+}
+.whatt{
+    color: #000;
+
+/* заголовок н2 */
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.05px;
+text-transform: uppercase;
+margin-bottom: 34px;
+}
+.photo{
+    color: var(--, #000);
+
+/* заголовок н3 */
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+margin: 29px 0px;
+}
+.video{
+    color: var(--logo, #BB5337);
+
+/* заголовок н3 */
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-bottom: 11px;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+}
+.oii{
+    color: #000;
+
+/* параграф */
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 135%; /* 21.6px */
+letter-spacing: 0.48px;
+}
+.drone{
+    color: var(--, #000);
+
+/* заголовок н3 */
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+margin: 29px 0px;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+}
+.stalking{
+    color: var(--, #000);
+
+/* заголовок н3 */
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+margin: 29px 0px;
+line-height: normal;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+}
+.section-3{
+    width: 100%;
+    margin-bottom: 114px;
+    display: flex;
+    gap: 47px;
+}
+.work{
+    color: #000;
+
+/* заголовок н2 */
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 32px;
+line-height: normal;
+letter-spacing: 1.05px;
+text-transform: uppercase;
+}
+.stay{
+    color: #000;
+
+/* заголовок н2 */
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.05px;
+text-transform: uppercase;
+}
+.uch{
+    color: var(--, #000);
+
+/* заголовок н3 */
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+margin-right: 177px;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+}
+.ikki{
+    color: var(--, #000);
+font-family: Lato;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+margin-right: 195px;
+line-height: normal;
+letter-spacing: 0.66px;
+text-transform: uppercase;
+}
+.turt{
+    color: var(--, #000);
+font-family: Lato;
+font-size: 15px;
+font-style: italic;
+font-weight: 400;
+line-height: 130%; /* 19.5px */
+letter-spacing: 0.75px;
+text-transform: uppercase;
+}
+.sipan{
+    color: var(--, #000);
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 135%; /* 18.9px */
+letter-spacing: 3.92px;
+}
+.container-2{
+    display: flex;
+    margin-top: 31px;
+}
+.ohiri{
+    color: #000;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+margin-top: 114px;
+font-weight: 400;
+line-height: 135%; /* 18.9px */
+letter-spacing: 0.42px;
+}
+
+
+
+
+
+
+
+
